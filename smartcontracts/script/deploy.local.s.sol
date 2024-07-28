@@ -2,7 +2,6 @@
 pragma solidity ^0.8.18;
 
 import {Script, console2} from "forge-std/Script.sol";
-import {Counter} from "../src/Counter.sol";
 import {RealDigital} from "../src/RealDigital.sol";
 import {RealTokenizado} from "../src/RealTokenizado.sol";
 import {STR} from "../src/STR.sol";
