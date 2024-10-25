@@ -15,3 +15,9 @@
 - [ ] TPFt 1002 Colocação direta
 - [ ] TPFt 1052 Compra e venda entre participantes
 - [ ] TPFt 1001 Compra e venda entre clientes
+
+## Aula 1
+
+- [ ] Organizar dir
+- [ ] Configurar frontend
+- [ ] 
