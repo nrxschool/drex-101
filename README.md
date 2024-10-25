@@ -19,5 +19,21 @@
 ## Aula 1
 
 - [ ] Organizar dir
-- [ ] Configurar frontend
-- [ ] 
+- [ ] Configurar frontend scaffold2
+- [ ] Configurar FWT (foundry)
+
+## Aula 2
+
+- [ ] reescrever contratos
+- [ ] reescrever testes
+
+
+## Aula 3
+
+- [ ] Besu config
+- [ ] Besu Obervability
+
+## Aula 4
+
+- [ ] Testes com Frontend
+- [ ] Completar todas operações do Bacen
