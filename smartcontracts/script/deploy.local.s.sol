@@ -5,7 +5,7 @@ import {Script, console2} from "forge-std/Script.sol";
 import {RealDigital} from "../src/RealDigital.sol";
 import {RealTokenizado} from "../src/RealTokenizado.sol";
 import {STR} from "../src/STR.sol";
-import {Swap} from "../src/Swap.sol";
+import {Swap} from "../src/Swap/Swap.sol";
 
 contract Local is Script {
     RealDigital rd;

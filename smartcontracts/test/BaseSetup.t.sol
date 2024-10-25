@@ -3,7 +3,7 @@ pragma solidity ^0.8.16;
 
 import {RealDigital} from "../src/RealDigital.sol";
 import {RealTokenizado} from "../src/RealTokenizado.sol";
-import {Swap} from "../src/Swap.sol";
+import {Swap} from "../src/Swap/Swap.sol";
 import {STR} from "../src/STR.sol";
 
 import {Utils} from "./Utils.t.sol";
